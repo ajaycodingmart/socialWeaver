@@ -1,0 +1,94 @@
+#titleStyle {
+    color: rgb(74, 100, 127);
+}
+
+#divisionPadding {
+    padding: 50px;
+    margin-bottom: 0px;
+}
+
+#divisionPadding2 {
+    padding: 50px;
+    margin-bottom: 0px;
+    margin-left: -50px;
+}
+
+*:focus {
+    outline: none;
+    /*NO BLUE BORDER HIGHLIGHT*/
+}
+
+.boxPadding {
+    margin-bottom: 50px;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-bottom: 2.4px solid steelblue;
+    padding: 0px !important;
+}
+
+.boxPadding2 {
+    margin-bottom: 189px;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-bottom: 2.4px solid steelblue;
+}
+
+#boxPaddingCompress {
+    margin-bottom: 5px;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-bottom: 2px solid steelblue;
+    padding: 0px;
+}
+
+#fontColor {
+    color: steelblue;
+    padding: 30px;
+    padding-left: 50px;
+}
+#fontColor2 {
+    color: steelblue;
+    padding: 30px;
+    padding-left: 10px;
+    text-align: center;
+}
+#captchaBox {
+    border: 2px solid steelblue;
+    border-radius: 5px;
+    padding: 30px;
+}
+
+#checkboxStyle {}
+
+#captchaBoxText {
+    text-align: right;
+}
+
+#facebookButton {
+    background-color: rgb(62, 92, 154);
+    padding: 10px;
+}
+
+#gplusBtn {
+    padding: 10px;
+}
+
+#createAccountBtn {
+    margin-top: -90px;
+}
+
+#orStyle {
+    color: steelblue;
+    padding: 10px;
+    letter-spacing: 1px;
+    text-align: center;
+}
+
+body {
+    background-image: url("https://files.slack.com/files-tmb/T0PR706EA-F3T252AJ3-ea991db8ee/sw_tree_1024.png");
+    background-position: bottom right;
+    background-repeat: no-repeat;
+}
